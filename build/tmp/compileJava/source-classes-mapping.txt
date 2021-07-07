@@ -1,4 +1,0 @@
-ga/guru/Cat.java
- ga.guru.Cat
-ga/guru/Main.java
- ga.guru.Main
