@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("Cat number is: "+ Cat.getCatNumber());
 
-        System.out.println("Cat " + barsik.getName() + " is old: "+ barsik.getAge());
+        System.out.println("Cat: " + barsik.getName() + " is old: "+ barsik.getAge());
 
     }
 }
