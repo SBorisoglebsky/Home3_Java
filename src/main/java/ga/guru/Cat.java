@@ -10,7 +10,6 @@ public class Cat {
         this.name = name;
         this.age = age;
         countCats++;
-
     }
 
     public static int getCatNumber(){
