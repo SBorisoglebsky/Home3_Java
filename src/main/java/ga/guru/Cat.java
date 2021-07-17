@@ -14,6 +14,7 @@ public class Cat {
 
     public static int getCatNumber(){
         return countCats;
+
     }
 
     public void setGav(){
